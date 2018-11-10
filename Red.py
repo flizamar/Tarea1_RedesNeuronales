@@ -1,3 +1,4 @@
+from Layer import *
 class Red():
   def __init__(self, size_input, size_layers, size_output):
       #Primera capa

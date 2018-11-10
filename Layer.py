@@ -1,3 +1,4 @@
+from Perceptron import *
 class Layer():
   def __init__(self, num_perceptrons, n_inputs_perceptron):
     self.perceptrons = [0]*num_perceptrons
